@@ -1,3 +1,4 @@
+title: Welcome to the Emergency Simulator
 ## Welcome to the Emergency Simulator
 
 [users]: https://github.com/HampelAlexandre/AleTest2/blob/master/users.png 
