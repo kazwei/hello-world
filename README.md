@@ -10,4 +10,3 @@
 |:--------------------------:|:-------------------------------:|:-----------------------------:|:-----------------------:|
 |**[About ES](About-ES)**|**[Details](Details)**|**[Setup Guide](Setup-Guide)**|**[Code & Features](Documentation)**|
 |Emergency Simulator introduction | Learn more about the current version of the project, improvements, and how to contribute | Installation procedures, requirements, how-to guides | Detailed technical documentation about ES code and provided features|
-
